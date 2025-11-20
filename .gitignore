@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv
+venv/
+virtual_env/
+env/
+*.log
+
+# Project-specific directories
+# Raw SEC filings downloaded
+data/raw/
+# Parsed paragraphs
+data/processed/ai_paragraphs.csv
+
+# DuckDB database
+data/duckdb/*
+*.duckdb
+
+# Plots and output images
+plots/
+**/plots/
+
+# -------------------------
+# Prefect
+# -------------------------
+.prefect/
+.flow/
+flows/
+**/.prefect*
+**/prefect.log
+
+# cache directories
+.cache/
