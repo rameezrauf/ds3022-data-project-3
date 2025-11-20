@@ -16,14 +16,15 @@ env/
 data/raw/
 # Parsed paragraphs
 data/processed/ai_paragraphs.csv
-
 # DuckDB database
 data/duckdb/*
 *.duckdb
 
-# -------------------------
+# Plots and output images
+plots/
+**/plots/
+
 # Prefect
-# -------------------------
 .prefect/
 .flow/
 flows/

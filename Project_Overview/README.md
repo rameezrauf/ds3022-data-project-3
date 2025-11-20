@@ -22,14 +22,11 @@ The data reveals a split trend between sectors. Tech companies consistently ment
 
 ## Plot / Visualization
 
-Include at least one compelling plot or visualization of your work. Add images in your subdirectory and then display them using markdown in your README.md file.
-
-![AI related paragraphs per year by sector](plots/ai_trends_by_sector.png)
+![AI related paragraphs per year by sector](../plots/ai_trends_by_sector.png)
 
 Another cool plot:
 
-![Top 15 tickers by AI related paragraphs](plots/ai_paragraphs_top_tickers.png)
+![Top 15 tickers by AI related paragraphs](../plots/ai_paragraphs_top_tickers.png)
 
 ## GitHub Repository
-
 https://github.com/rameezrauf/ds3022-data-project-3
