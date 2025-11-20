@@ -21,10 +21,6 @@ data/processed/ai_paragraphs.csv
 data/duckdb/*
 *.duckdb
 
-# Plots and output images
-plots/
-**/plots/
-
 # -------------------------
 # Prefect
 # -------------------------
